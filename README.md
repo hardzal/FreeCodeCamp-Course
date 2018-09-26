@@ -1,2 +1,2 @@
-# fcc-course
+# FreeCodeCamp-course
 FreeCodeCamp Course
